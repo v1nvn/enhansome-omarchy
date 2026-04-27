@@ -17,15 +17,15 @@
 
 ## Official Resources
 
-* [Omarchy](https://github.com/basecamp/omarchy) ⭐ 22,228 | 🐛 520 | 🌐 Shell | 📅 2026-04-25 - The main Omarchy project by Basecamp.
+* [Omarchy](https://github.com/basecamp/omarchy) ⭐ 22,252 | 🐛 527 | 🌐 Shell | 📅 2026-04-26 - The main Omarchy project by Basecamp.
 * [Omarchy Documentation](https://learn.omacom.io/2/the-omarchy-manual) - Official website with installation guides and documentation.
 
 ## Alternative Implementations
 
-* [hyprwhspr](https://github.com/goodroot/hyprwhspr) ⭐ 985 | 🐛 2 | 🌐 Python | 📅 2026-04-25 - Native speech-to-text for Arch / Omarchy - Fast, accurate and easy system-wide Whisper dictation.
-* [omarchy-nix](https://github.com/henrysipp/omarchy-nix) ⭐ 690 | 🐛 5 | 🌐 Nix | 📅 2025-11-13 - NixOS version of Omarchy with declarative configuration.
+* [hyprwhspr](https://github.com/goodroot/hyprwhspr) ⭐ 987 | 🐛 2 | 🌐 Python | 📅 2026-04-26 - Native speech-to-text for Arch / Omarchy - Fast, accurate and easy system-wide Whisper dictation.
+* [omarchy-nix](https://github.com/henrysipp/omarchy-nix) ⭐ 692 | 🐛 5 | 🌐 Nix | 📅 2025-11-13 - NixOS version of Omarchy with declarative configuration.
 * [omarchy-on-cachyos](https://github.com/mroboff/omarchy-on-cachyos) ⭐ 271 | 🐛 8 | 🌐 Shell | 📅 2026-01-30 - Installation script for Omarchy on top of CachyOS.
-* [Okimarchy](https://github.com/cristian-fleischer/okimarchy) ⭐ 112 | 🐛 3 | 🌐 Shell | 📅 2025-11-13 - An Omarchy fork that adds support for niri window manager alongside Hyprland, with runtime switching and unified theming.
+* [Okimarchy](https://github.com/cristian-fleischer/okimarchy) ⭐ 111 | 🐛 3 | 🌐 Shell | 📅 2025-11-13 - An Omarchy fork that adds support for niri window manager alongside Hyprland, with runtime switching and unified theming.
 * [omarchy-cachyos](https://github.com/lentra0/omarchy-cachyos) ⭐ 108 | 🐛 5 | 🌐 Shell | 📅 2025-10-17 - Opinionated CachyOS/Hyprland Setup.
 * [omadora](https://github.com/elpritchos/omadora) ⭐ 83 | 🐛 0 | 🌐 Shell | 📅 2026-04-24 - Minimal Fedora install based on Omarchy.
 * [typecraft-dev/omarchy-supplement](https://github.com/typecraft-dev/omarchy-supplement) ⭐ 72 | 🐛 0 | 🌐 Shell | 📅 2025-08-27 - Additional packages, dotfiles, and overrides to be used after installing Omarchy.
@@ -45,24 +45,24 @@
 * [omarchy-retropc-theme](https://github.com/rondilley/omarchy-retropc-theme) ⭐ 67 | 🐛 0 | 🌐 Lua | 📅 2025-11-22 - Nostalgic retro PC theme with vintage computing aesthetics.
 * [omarchy-aamis-theme](https://github.com/vyrx-dev/omarchy-aamis-theme) ⭐ 62 | 🐛 0 | 🌐 CSS | 📅 2026-04-15 - Near‑black canvas, creamy text.
 * [omarchy-void-theme](https://github.com/vyrx-dev/omarchy-void-theme.git) ⭐ 53 | 🐛 0 | 🌐 CSS | 📅 2026-04-15 - Low-contrast purple theme with soft accents for a calm UI.
-* [omarchy-felix-theme](https://github.com/TyRichards/omarchy-felix-theme) ⭐ 51 | 🐛 0 | 🌐 CSS | 📅 2026-04-24 - Clean theme with balanced colors and modern design.
+* [omarchy-felix-theme](https://github.com/TyRichards/omarchy-felix-theme) ⭐ 51 | 🐛 0 | 🌐 CSS | 📅 2026-04-26 - Clean theme with balanced colors and modern design.
 * [omarchy-akane-theme](https://github.com/Grenish/omarchy-akane-theme) ⭐ 49 | 🐛 0 | 🌐 Lua | 📅 2026-01-03 - Akane theme with Japanese-inspired colors.
 * [omarchy-ayaka-theme](https://github.com/abhijeet-swami/omarchy-ayaka-theme) ⭐ 47 | 🐛 1 | 🌐 CSS | 📅 2026-01-02 - Minimalist theme with glass-like blur effects and vibrant accents.
 * [omarchy-matte-black](https://github.com/tahayvr/omarchy-matte-black) ⭐ 46 | 🐛 0 | 🌐 CSS | 📅 2026-01-31 - Sleek matte black theme for minimalists.
 * [omarchy-ash-theme](https://github.com/bjarneo/omarchy-ash-theme) ⭐ 44 | 🐛 1 | 🌐 CSS | 📅 2025-11-18 - Subtle ash-gray color scheme.
 * [omarchy-mars-theme](https://github.com/steve-lohmeyer/omarchy-mars-theme) ⭐ 43 | 🐛 1 | 🌐 CSS | 📅 2025-10-25 - Mars-inspired red theme.
-* [omarchy-midnight-theme](https://github.com/JaxonWright/omarchy-midnight-theme) ⭐ 43 | 🐛 1 | 🌐 Lua | 📅 2026-04-25 - Dark midnight theme optimized for OLED displays.
 * [omarchy-one-dark-pro-theme](https://github.com/sc0ttman/omarchy-one-dark-pro) ⭐ 43 | 🐛 0 | 🌐 Lua | 📅 2026-03-05 - One Dark Pro color scheme adaptation.
-* [omarchy-space-monkey-theme](https://github.com/TyRichards/omarchy-space-monkey-theme) ⭐ 42 | 🐛 0 | 🌐 CSS | 📅 2026-04-21 - Space-inspired theme with cosmic elements.
+* [omarchy-midnight-theme](https://github.com/JaxonWright/omarchy-midnight-theme) ⭐ 42 | 🐛 1 | 🌐 Lua | 📅 2026-04-25 - Dark midnight theme optimized for OLED displays.
+* [omarchy-space-monkey-theme](https://github.com/TyRichards/omarchy-space-monkey-theme) ⭐ 42 | 🐛 0 | 🌐 CSS | 📅 2026-04-26 - Space-inspired theme with cosmic elements.
 * [omarchy-rose-pine-dark](https://github.com/guilhermetk/omarchy-rose-pine-dark) ⭐ 41 | 🐛 0 | 🌐 CSS | 📅 2026-02-04 - Rose Pine inspired dark theme.
 * [omarchy-spectra-theme](https://github.com/abhijeet-swami/omarchy-spectra-theme) ⭐ 35 | 🐛 0 | 🌐 CSS | 📅 2026-01-02 - Blur and transparency theme that adapts to any wallpaper.
 * [omarchy-bauhaus-theme](https://github.com/somerocketeer/omarchy-bauhaus-theme) ⭐ 34 | 🐛 1 | 🌐 CSS | 📅 2025-10-11 - Minimalist theme inspired by Bauhaus design principles.
 * [omarchy-dracula-theme](https://github.com/catlee/omarchy-dracula-theme) ⭐ 34 | 🐛 6 | 🌐 CSS | 📅 2025-08-09 - Popular Dracula theme adaptation.
 * [omarchy-blackturq-theme](https://github.com/HANCORE-linux/omarchy-blackturq-theme) ⭐ 33 | 🐛 0 | 🌐 CSS | 📅 2026-04-23 - Black turquoise theme based on Evo80 keyboard color pattern.
 * [omarchy-futurism-theme](https://github.com/bjarneo/omarchy-futurism-theme) ⭐ 32 | 🐛 1 | 🌐 Lua | 📅 2026-02-21 - Futuristic theme with modern aesthetics.
+* [omarchy-blackgold-theme](https://github.com/HANCORE-linux/omarchy-blackgold-theme) ⭐ 31 | 🐛 0 | 🌐 CSS | 📅 2026-04-23 - Sleek black-and-gold theme with luxurious aesthetics.
 * [omarchy-flexoki-dark-theme](https://github.com/euandeas/omarchy-flexoki-dark-theme) ⭐ 31 | 🐛 1 | 🌐 CSS | 📅 2026-01-13 - Flexoki color palette adaptation.
-* [omarchy-blackgold-theme](https://github.com/HANCORE-linux/omarchy-blackgold-theme) ⭐ 30 | 🐛 0 | 🌐 CSS | 📅 2026-04-23 - Sleek black-and-gold theme with luxurious aesthetics.
-* [omarchy-gold-rush-theme](https://github.com/tahayvr/omarchy-gold-rush-theme) ⭐ 30 | 🐛 0 | 🌐 CSS | 📅 2026-02-20 - Luxurious gold-themed color scheme.
+* [omarchy-gold-rush-theme](https://github.com/tahayvr/omarchy-gold-rush-theme) ⭐ 29 | 🐛 0 | 🌐 CSS | 📅 2026-02-20 - Luxurious gold-themed color scheme.
 * [omarchy-mechanoonna-theme](https://github.com/HANCORE-linux/omarchy-mechanoonna-theme) ⭐ 29 | 🐛 0 | 🌐 CSS | 📅 2026-02-22 - Mecha no Onna (メカの女) the "Metal Woman" theme.
 * [omarchy-batou-theme](https://github.com/HANCORE-linux/omarchy-batou-theme) ⭐ 28 | 🐛 0 | 🌐 CSS | 📅 2026-04-19 - Moody theme inspired by Batou's car and iconic opening scene aesthetics.
 * [omarchy-synthwave84-theme](https://github.com/omacom-io/omarchy-synthwave84-theme) ⚠️ Archived - Synthwave 84 inspired theme with retro aesthetics.
@@ -73,7 +73,7 @@
 * [omarchy-inkypinky-theme](https://github.com/HANCORE-linux/omarchy-inkypinky-theme) ⭐ 22 | 🐛 0 | 🌐 CSS | 📅 2026-04-12 - Bold meets blush in a swirl of creative elegance.
 * [omarchy-nes-theme](https://github.com/bjarneo/omarchy-nes-theme) ⭐ 22 | 🐛 0 | 🌐 CSS | 📅 2025-09-16 - Retro NES theme with nostalgic gaming aesthetics.
 * [omarchy-catppuccin-mocha-theme](https://github.com/KidDogDad/omarchy-catppuccin-mocha-theme) ⭐ 22 | 🐛 5 | 🌐 CSS | 📅 2025-10-10 - Catppuccin Mocha theme for Omarchy.
-* [omarchy-harbordark-theme](https://github.com/HANCORE-linux/omarchy-harbordark-theme) ⭐ 20 | 🐛 0 | 🌐 CSS | 📅 2026-04-19 - Dark version of Harbor theme with deep tones and cool accents.
+* [omarchy-harbordark-theme](https://github.com/HANCORE-linux/omarchy-harbordark-theme) ⭐ 21 | 🐛 0 | 🌐 CSS | 📅 2026-04-19 - Dark version of Harbor theme with deep tones and cool accents.
 * [pink-blood-omarchy-theme](https://github.com/ITSZXY/pink-blood-omarchy-theme) ⭐ 18 | 🐛 0 | 🌐 CSS | 📅 2025-10-25 - Bold pink-themed design.
 * [omarchy-azure-glow-theme](https://github.com/Hydradevx/omarchy-azure-glow-theme) ⭐ 17 | 🐛 0 | 🌐 CSS | 📅 2025-08-12 - Azure blue theme with glowing accents.
 * [omarchy-arc-blueberry](https://github.com/vale-c/omarchy-arc-blueberry) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2026-03-07 - Arc Blueberry inspired colors tailored for Omarchy.
@@ -150,11 +150,11 @@
 * [omarchist](https://github.com/tahayvr/omarchist) ⭐ 686 | 🐛 0 | 🌐 Rust | 📅 2026-04-22 - GUI app for Omarchy with visual theme designer built with Tauri/Rust/Svelte.
 * [hyprmarker](https://github.com/devmobasa/hyprmarker) ⭐ 533 | 🐛 5 | 🌐 Rust | 📅 2026-04-23 - ZoomIt-inspired annotation overlay tailored for Hyprland/Omarchy.
 * [wayscriber](https://github.com/devmobasa/wayscriber) ⭐ 533 | 🐛 5 | 🌐 Rust | 📅 2026-04-23 - Instant on-screen annotations and markup for Wayland, ZoomIt-inspired.
-* [aether](https://github.com/bjarneo/aether) ⭐ 481 | 🐛 2 | 🌐 Svelte | 📅 2026-04-25 - Desktop theming toolkit that streamlines crafting Omarchy themes.
-* [hyprmon](https://github.com/erans/hyprmon) ⭐ 452 | 🐛 4 | 🌐 Go | 📅 2026-04-18 - TUI monitor configuration tool for Hyprland with visual layout, drag-and-drop, and profile management.
-* [waybar-themes](https://github.com/HANCORE-linux/waybar-themes) ⭐ 331 | 🐛 0 | 🌐 CSS | 📅 2026-04-25 - Collection of Waybar themes with various styles and combinations for Omarchy.
+* [aether](https://github.com/bjarneo/aether) ⭐ 483 | 🐛 3 | 🌐 Svelte | 📅 2026-04-26 - Desktop theming toolkit that streamlines crafting Omarchy themes.
+* [hyprmon](https://github.com/erans/hyprmon) ⭐ 455 | 🐛 4 | 🌐 Go | 📅 2026-04-18 - TUI monitor configuration tool for Hyprland with visual layout, drag-and-drop, and profile management.
+* [waybar-themes](https://github.com/HANCORE-linux/waybar-themes) ⭐ 333 | 🐛 0 | 🌐 CSS | 📅 2026-04-26 - Collection of Waybar themes with various styles and combinations for Omarchy.
 * [omarchy-cleaner](https://github.com/maxart/omarchy-cleaner) ⭐ 260 | 🐛 0 | 🌐 Shell | 📅 2026-02-06 - Quickly and easily remove pre-installed apps and webapps.
-* [Pacsea](https://github.com/Firstp1ck/Pacsea) ⭐ 255 | 🐛 17 | 🌐 Rust | 📅 2026-04-25 - Rust TUI for browsing and queueing pacman/AUR packages, inspired by Omarchy's installer.
+* [Pacsea](https://github.com/Firstp1ck/Pacsea) ⭐ 256 | 🐛 17 | 🌐 Rust | 📅 2026-04-25 - Rust TUI for browsing and queueing pacman/AUR packages, inspired by Omarchy's installer.
 * [omarchy-iso](https://github.com/omacom-io/omarchy-iso) ⭐ 191 | 🐛 16 | 🌐 Shell | 📅 2026-04-24 - Custom ISO builder for Omarchy installations.
 * [Adsovetzky-Omarchy-s-Waybar](https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar) ⭐ 138 | 🐛 3 | 🌐 CSS | 📅 2025-11-30 - Custom Waybar configurations for Omarchy.
 * [flutter\_omarchy](https://github.com/aloisdeniel/flutter_omarchy) ⭐ 111 | 🐛 0 | 🌐 Dart | 📅 2025-09-29 - Develop Flutter apps for Omarchy.
@@ -171,7 +171,7 @@
 * [hypruler](https://github.com/t4t5/hypruler) ⭐ 36 | 🐛 0 | 🌐 Rust | 📅 2026-04-13 - Measure anything on your screen. Inspired by PixelSnap for Mac.
 * [omarchy-chromium](https://github.com/omacom-io/omarchy-chromium) ⭐ 32 | 🐛 6 | 🌐 Shell | 📅 2026-04-22 - Chromium browser integration and optimizations for Omarchy.
 * [omarchy-speech-to-text](https://github.com/michabbb/omarchy-speech-to-text) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2025-09-17 - Whisper-backed speech-to-text integrations for Omarchy.
-* [omarchy-pkgs](https://github.com/omacom-io/omarchy-pkgs) ⭐ 25 | 🐛 8 | 🌐 Shell | 📅 2026-04-25 - Official Omarchy packages and utilities.
+* [omarchy-pkgs](https://github.com/omacom-io/omarchy-pkgs) ⭐ 25 | 🐛 9 | 🌐 Shell | 📅 2026-04-26 - Official Omarchy packages and utilities.
 * [lazyVPN-for-Omarchy](https://github.com/blank-query/lazyVPN-for-Omarchy) ⭐ 25 | 🐛 0 | 🌐 Shell | 📅 2026-03-24 - A WireGuard VPN manager with Walker menu integration, killswitch protection, and dynamic server browsing.
 * [omarchy-theme-builder](https://github.com/gitcoder89431/omarchy-theme-builder) ⭐ 24 | 🐛 0 | 🌐 Svelte | 📅 2025-08-31 - Interactive, real-time theme builder for Omarchy.
 * [FW12Rotate](https://github.com/2disbetter/FW12Rotate) ⭐ 24 | 🐛 0 | 🌐 C++ | 📅 2026-01-02 - Framework 12 rotation application specifically for Omarchy Linux.
@@ -204,14 +204,14 @@
 
 * [CyphrRiot/ArchRiot](https://github.com/CyphrRiot/ArchRiot) ⭐ 152 | 🐛 10 | 🌐 Go | 📅 2026-04-14 - A curated Arch Linux experience inspired by Omarchy's philosophy.
 * [dougburks/ohmydebn](https://github.com/dougburks/ohmydebn) ⭐ 120 | 🐛 15 | 🌐 Shell | 📅 2026-04-24 - A debonair Debian + Cinnamon setup inspired by Omarchy.
-* [j5onrf/dots](https://github.com/j5onrf/dots) ⭐ 105 | 🐛 0 | 🌐 CSS | 📅 2026-04-26 - Hyprland dotfiles with Waybar and ML4W inspired by Omarchy aesthetics.
+* [j5onrf/dots](https://github.com/j5onrf/dots) ⭐ 105 | 🐛 0 | 🌐 CSS | 📅 2026-04-27 - Hyprland dotfiles with Waybar and ML4W inspired by Omarchy aesthetics.
 * [alibaghernejad/waybar-privacy-dots](https://github.com/alibaghernejad/waybar-privacy-dots) ⭐ 25 | 🐛 1 | 🌐 Shell | 📅 2025-08-17 - Privacy-first module for your Waybar status bar.
 * [pixincreate/configs](https://github.com/pixincreate/configs) ⚠️ Archived - Cross-platform dotfiles and setup scripts with Omarchy/Omaforge profiles.
 * [omarchy-site](https://github.com/omacom-io/omarchy-site) ⭐ 12 | 🐛 2 | 🌐 HTML | 📅 2026-04-23 - Official Omarchy website source code.
 * [omarchy-mirror](https://github.com/omacom-io/omarchy-mirror) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2026-03-26 - Dedicated mirror of Arch repositories for Omarchy hosted on Cloudflare R2.
 * [sheikhlimon/dotfiles](https://github.com/sheikhlimon/dotfiles) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2026-04-18 - Personal Omarchy dotfiles configuration.
 * [donotfeedthevirus/dotfiles](https://github.com/donotfeedthevirus/dotfiles) ⭐ 3 | 🐛 0 | 🌐 GLSL | 📅 2026-04-20 - Curated Omarchy dotfiles for Hyprland, Kitty, Neovim, and Tmux.
-* [marcelohmdias/dotfiles](https://github.com/marcelohmdias/dotfiles) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2025-12-09 - Personal dotfiles and post-install setup based on Omarchy.
+* [marcelohmdias/dotfiles](https://github.com/marcelohmdias/dotfiles) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-04-26 - Personal dotfiles and post-install setup based on Omarchy.
 * [jehrhardt/dotfiles](https://github.com/jehrhardt/dotfiles) ⚠️ Archived - Dotfiles based on Omarchy.
 
 ## Alternative Curated Lists
@@ -221,9 +221,9 @@
 
 ## Community Resources
 
-* [GitHub Discussions](https://github.com/basecamp/omarchy/discussions) ⭐ 22,228 | 🐛 520 | 🌐 Shell | 📅 2026-04-25 - Official community discussions and support.
-* [Omarchy on Raspberry Pi 5](https://github.com/basecamp/omarchy/discussions/642) ⭐ 22,228 | 🐛 520 | 🌐 Shell | 📅 2026-04-25 - Community discussion on running Omarchy on Raspberry Pi 5.
-* [GitHub Issues](https://github.com/basecamp/omarchy/issues) ⭐ 22,228 | 🐛 520 | 🌐 Shell | 📅 2026-04-25 - Bug reports and feature requests.
+* [GitHub Discussions](https://github.com/basecamp/omarchy/discussions) ⭐ 22,252 | 🐛 527 | 🌐 Shell | 📅 2026-04-26 - Official community discussions and support.
+* [Omarchy on Raspberry Pi 5](https://github.com/basecamp/omarchy/discussions/642) ⭐ 22,252 | 🐛 527 | 🌐 Shell | 📅 2026-04-26 - Community discussion on running Omarchy on Raspberry Pi 5.
+* [GitHub Issues](https://github.com/basecamp/omarchy/issues) ⭐ 22,252 | 🐛 527 | 🌐 Shell | 📅 2026-04-26 - Bug reports and feature requests.
 * [Omarchy on 11 inch MacBook Air](https://seanabrahams.com/linux/archlinux/macbook/omarchy/2025/08/07/omarchy-macbook-air.html) - Technical guide for installing Omarchy on a 2014 MacBook Air with WiFi configuration.
 * [omarchy-theme Topic](https://github.com/topics/omarchy-theme) - Browse all repositories tagged with omarchy-theme.
 
