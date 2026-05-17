@@ -52,7 +52,7 @@
             "last_commit": "2026-05-15T16:24:23Z",
             "owner": "goodroot",
             "repo": "hyprwhspr",
-            "stars": 1022
+            "stars": 1024
           }
         },
         {
@@ -78,7 +78,7 @@
             "last_commit": "2026-05-10T00:31:18Z",
             "owner": "elpritchos",
             "repo": "omadora",
-            "stars": 92
+            "stars": 93
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2025-10-17T16:51:56Z",
             "owner": "lentra0",
             "repo": "omarchy-cachyos",
-            "stars": 116
+            "stars": 117
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2025-11-13T02:12:10Z",
             "owner": "henrysipp",
             "repo": "omarchy-nix",
-            "stars": 714
+            "stars": 713
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-05-07T03:52:53Z",
             "owner": "mroboff",
             "repo": "omarchy-on-cachyos",
-            "stars": 403
+            "stars": 419
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-04-29T16:44:08Z",
             "owner": "typecraft-dev",
             "repo": "omarchy-supplement",
-            "stars": 73
+            "stars": 74
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2025-07-02T18:29:29Z",
             "owner": "harilvfs",
             "repo": "omarchy",
-            "stars": 1
+            "stars": 2
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-05-08T12:26:13Z",
             "owner": "HANCORE-linux",
             "repo": "omarchy-batou-theme",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -812,7 +812,7 @@
             "last_commit": "2026-05-13T11:22:28Z",
             "owner": "HANCORE-linux",
             "repo": "omarchy-moodpeak-theme",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -1199,7 +1199,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-03-07T09:34:58Z",
+            "last_commit": "2026-05-16T18:13:11Z",
             "owner": "vale-c",
             "repo": "omarchy-arc-blueberry",
             "stars": 17
@@ -1699,10 +1699,10 @@
           "repo_info": {
             "archived": false,
             "language": "Svelte",
-            "last_commit": "2026-05-15T11:15:47Z",
+            "last_commit": "2026-05-16T18:59:43Z",
             "owner": "bjarneo",
             "repo": "aether",
-            "stars": 561
+            "stars": 562
           }
         },
         {
@@ -1793,7 +1793,7 @@
             "last_commit": "2026-05-08T18:03:36Z",
             "owner": "Firstp1ck",
             "repo": "Pacsea",
-            "stars": 265
+            "stars": 266
           }
         },
         {
@@ -1819,7 +1819,7 @@
             "last_commit": "2026-05-13T22:30:53Z",
             "owner": "HANCORE-linux",
             "repo": "waybar-themes",
-            "stars": 399
+            "stars": 400
           }
         },
         {
@@ -1884,7 +1884,7 @@
             "last_commit": "2026-02-03T14:17:32Z",
             "owner": "APS6",
             "repo": "omazed",
-            "stars": 39
+            "stars": 38
           }
         },
         {
@@ -1907,10 +1907,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-05-16T03:27:03Z",
+            "last_commit": "2026-05-17T03:41:32Z",
             "owner": "omacom-io",
             "repo": "omarchy-pkgs",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -2014,7 +2014,7 @@
             "last_commit": "2025-11-30T12:33:50Z",
             "owner": "adsovetzky",
             "repo": "Adsovetzky-Omarchy-s-Waybar",
-            "stars": 138
+            "stars": 140
           }
         },
         {
@@ -2053,7 +2053,7 @@
             "last_commit": "2026-05-15T23:27:39Z",
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 551
+            "stars": 552
           }
         },
         {
@@ -2144,7 +2144,7 @@
             "last_commit": "2025-09-04T00:07:23Z",
             "owner": "daurydicaprio",
             "repo": "live-wallpaper-for-omarchy-linux",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -2222,7 +2222,7 @@
             "last_commit": "2026-05-15T23:27:39Z",
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 551
+            "stars": 552
           }
         },
         {
@@ -2251,7 +2251,7 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-05-16T03:58:05Z",
+            "last_commit": "2026-05-17T04:55:15Z",
             "owner": "j5onrf",
             "repo": "dots",
             "stars": 106
@@ -2368,7 +2368,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-05-15T19:46:11Z",
+            "last_commit": "2026-05-16T20:54:56Z",
             "owner": "sheikhlimon",
             "repo": "dotfiles",
             "stars": 5
@@ -2432,10 +2432,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-05-16T04:45:47Z",
+            "last_commit": "2026-05-16T20:48:58Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 22996
+            "stars": 23024
           }
         },
         {
@@ -2445,10 +2445,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-05-16T04:45:47Z",
+            "last_commit": "2026-05-16T20:48:58Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 22996
+            "stars": 23024
           }
         },
         {
@@ -2463,10 +2463,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-05-16T04:45:47Z",
+            "last_commit": "2026-05-16T20:48:58Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 22996
+            "stars": 23024
           }
         },
         {
@@ -2484,7 +2484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:31:12.649Z",
+    "last_updated": "2026-05-17T05:52:58.670Z",
     "original_repository": "aorumbayev/awesome-omarchy",
     "source_repository": "v1nvn/enhansome-omarchy",
     "source_repository_description": null,
