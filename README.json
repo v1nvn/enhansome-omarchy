@@ -52,7 +52,7 @@
             "last_commit": "2026-05-18T02:43:03Z",
             "owner": "goodroot",
             "repo": "hyprwhspr",
-            "stars": 1026
+            "stars": 1027
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2025-10-17T16:51:56Z",
             "owner": "lentra0",
             "repo": "omarchy-cachyos",
-            "stars": 117
+            "stars": 118
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2025-11-13T02:12:10Z",
             "owner": "henrysipp",
             "repo": "omarchy-nix",
-            "stars": 713
+            "stars": 714
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-05-07T03:52:53Z",
             "owner": "mroboff",
             "repo": "omarchy-on-cachyos",
-            "stars": 431
+            "stars": 443
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-05-08T12:26:13Z",
             "owner": "HANCORE-linux",
             "repo": "omarchy-batou-theme",
-            "stars": 31
+            "stars": 30
           }
         },
         {
@@ -695,7 +695,7 @@
             "last_commit": "2026-05-15T21:12:13Z",
             "owner": "imbypass",
             "repo": "omarchy-theme-hook",
-            "stars": 181
+            "stars": 182
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2026-05-10T22:47:50Z",
             "owner": "HANCORE-linux",
             "repo": "omarchy-mechanoonna-theme",
-            "stars": 29
+            "stars": 30
           }
         },
         {
@@ -1611,7 +1611,7 @@
             "last_commit": "2026-05-10T12:22:53Z",
             "owner": "omacom-io",
             "repo": "omarchy-iso",
-            "stars": 194
+            "stars": 195
           }
         },
         {
@@ -1702,7 +1702,7 @@
             "last_commit": "2026-05-16T18:59:43Z",
             "owner": "bjarneo",
             "repo": "aether",
-            "stars": 563
+            "stars": 564
           }
         },
         {
@@ -1790,7 +1790,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-08T18:03:36Z",
+            "last_commit": "2026-05-18T14:37:18Z",
             "owner": "Firstp1ck",
             "repo": "Pacsea",
             "stars": 268
@@ -1816,10 +1816,10 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-05-13T22:30:53Z",
+            "last_commit": "2026-05-18T23:08:51Z",
             "owner": "HANCORE-linux",
             "repo": "waybar-themes",
-            "stars": 401
+            "stars": 404
           }
         },
         {
@@ -1907,7 +1907,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-05-18T03:56:24Z",
+            "last_commit": "2026-05-19T03:46:46Z",
             "owner": "omacom-io",
             "repo": "omarchy-pkgs",
             "stars": 28
@@ -2037,7 +2037,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-11T21:13:09Z",
+            "last_commit": "2026-05-18T21:54:06Z",
             "owner": "erans",
             "repo": "hyprmon",
             "stars": 466
@@ -2050,10 +2050,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-17T19:16:32Z",
+            "last_commit": "2026-05-18T11:56:18Z",
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 555
+            "stars": 558
           }
         },
         {
@@ -2219,10 +2219,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-17T19:16:32Z",
+            "last_commit": "2026-05-18T11:56:18Z",
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 555
+            "stars": 558
           }
         },
         {
@@ -2251,7 +2251,7 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-05-17T04:55:15Z",
+            "last_commit": "2026-05-18T14:47:48Z",
             "owner": "j5onrf",
             "repo": "dots",
             "stars": 106
@@ -2267,7 +2267,7 @@
             "last_commit": "2026-05-01T23:59:31Z",
             "owner": "CyphrRiot",
             "repo": "ArchRiot",
-            "stars": 154
+            "stars": 153
           }
         },
         {
@@ -2432,10 +2432,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-05-18T00:15:04Z",
+            "last_commit": "2026-05-19T05:54:09Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 23055
+            "stars": 23082
           }
         },
         {
@@ -2445,10 +2445,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-05-18T00:15:04Z",
+            "last_commit": "2026-05-19T05:54:09Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 23055
+            "stars": 23082
           }
         },
         {
@@ -2463,10 +2463,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-05-18T00:15:04Z",
+            "last_commit": "2026-05-19T05:54:09Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 23055
+            "stars": 23082
           }
         },
         {
@@ -2484,7 +2484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-18T06:19:17.144Z",
+    "last_updated": "2026-05-19T06:13:00.808Z",
     "original_repository": "aorumbayev/awesome-omarchy",
     "source_repository": "v1nvn/enhansome-omarchy",
     "source_repository_description": null,
