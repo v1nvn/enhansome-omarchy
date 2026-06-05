@@ -49,10 +49,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-01T01:14:28Z",
+            "last_commit": "2026-06-04T15:47:49Z",
             "owner": "goodroot",
             "repo": "hyprwhspr",
-            "stars": 1057
+            "stars": 1058
           }
         },
         {
@@ -75,7 +75,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-06-04T05:08:28Z",
+            "last_commit": "2026-06-05T04:48:28Z",
             "owner": "elpritchos",
             "repo": "omadora",
             "stars": 95
@@ -292,7 +292,7 @@
             "last_commit": "2025-12-24T13:32:51Z",
             "owner": "bjarneo",
             "repo": "omarchy-aura-theme",
-            "stars": 26
+            "stars": 27
           }
         },
         {
@@ -409,7 +409,7 @@
             "last_commit": "2025-08-26T15:51:05Z",
             "owner": "hipsterusername",
             "repo": "omarchy-blueridge-dark-theme",
-            "stars": 14
+            "stars": 15
           }
         },
         {
@@ -760,7 +760,7 @@
             "last_commit": "2026-01-31T03:31:52Z",
             "owner": "tahayvr",
             "repo": "matte-black-theme",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -851,7 +851,7 @@
             "last_commit": "2026-03-05T16:04:00Z",
             "owner": "sc0ttman",
             "repo": "omarchy-one-dark-pro-theme",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -1189,7 +1189,7 @@
             "last_commit": "2025-08-06T06:31:02Z",
             "owner": "CyphrRiot",
             "repo": "omarchy-archriot-theme",
-            "stars": 6
+            "stars": 7
           }
         },
         {
@@ -1793,7 +1793,7 @@
             "last_commit": "2026-05-18T14:37:18Z",
             "owner": "Firstp1ck",
             "repo": "Pacsea",
-            "stars": 273
+            "stars": 274
           }
         },
         {
@@ -1816,10 +1816,10 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-05-28T14:05:58Z",
+            "last_commit": "2026-06-04T22:28:31Z",
             "owner": "HANCORE-linux",
             "repo": "waybar-themes",
-            "stars": 452
+            "stars": 454
           }
         },
         {
@@ -1871,7 +1871,7 @@
             "last_commit": "2025-10-31T09:51:36Z",
             "owner": "JacobusXIII",
             "repo": "omarchy-wireguard-vpn-toggle",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -1907,10 +1907,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-06-04T04:17:19Z",
+            "last_commit": "2026-06-05T04:00:58Z",
             "owner": "omacom-io",
             "repo": "omarchy-pkgs",
-            "stars": 29
+            "stars": 31
           }
         },
         {
@@ -2050,10 +2050,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-06-03T14:19:55Z",
+            "last_commit": "2026-06-04T16:09:50Z",
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 577
+            "stars": 579
           }
         },
         {
@@ -2079,7 +2079,7 @@
             "last_commit": "2026-05-29T17:10:17Z",
             "owner": "maxart",
             "repo": "omarchy-cleaner",
-            "stars": 268
+            "stars": 269
           }
         },
         {
@@ -2105,7 +2105,7 @@
             "last_commit": "2025-12-04T12:35:38Z",
             "owner": "mirarr-app",
             "repo": "editt",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -2219,10 +2219,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-06-03T14:19:55Z",
+            "last_commit": "2026-06-04T16:09:50Z",
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 577
+            "stars": 579
           }
         },
         {
@@ -2280,7 +2280,7 @@
             "last_commit": "2026-05-27T12:18:49Z",
             "owner": "dougburks",
             "repo": "ohmydebn",
-            "stars": 125
+            "stars": 126
           }
         },
         {
@@ -2432,10 +2432,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-06-03T12:48:49Z",
+            "last_commit": "2026-06-04T23:23:58Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 23473
+            "stars": 23491
           }
         },
         {
@@ -2445,10 +2445,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-06-03T12:48:49Z",
+            "last_commit": "2026-06-04T23:23:58Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 23473
+            "stars": 23491
           }
         },
         {
@@ -2463,10 +2463,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-06-03T12:48:49Z",
+            "last_commit": "2026-06-04T23:23:58Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 23473
+            "stars": 23491
           }
         },
         {
@@ -2484,7 +2484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-04T06:47:17.881Z",
+    "last_updated": "2026-06-05T06:36:43.131Z",
     "original_repository": "aorumbayev/awesome-omarchy",
     "source_repository": "v1nvn/enhansome-omarchy",
     "source_repository_description": null,
